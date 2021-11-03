@@ -1,6 +1,6 @@
 <?php
 
-namespace Luchki\TestPackage1;
+namespace Luchki\YoutrackSDK;
 
 class TestClass1
 {
