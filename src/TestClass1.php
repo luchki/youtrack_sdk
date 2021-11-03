@@ -2,7 +2,7 @@
 
 namespace Luchki\YoutrackSDK;
 
-class TestClass1
+class TestClass2
 {
         public function test() {
                 echo 'good';
