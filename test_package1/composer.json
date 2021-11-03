@@ -1,0 +1,9 @@
+{
+    "name": "luchki/test_pachage_1",
+    "description": "N/A",
+    "autoload": {
+        "psr-4": {
+            "Luchki\\TestPackage1\\": ""
+        }
+    }
+}
