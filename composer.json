@@ -24,6 +24,6 @@
         "slim/slim-skeleton": "^4.3"
     },
     "autoload": {
-        "psr-4": { "Luchki\\YoutrackSDK\\": "Src/" }
+        "psr-4": { "Luchki\\YoutrackSDK\\": "src/"}
     }
 }
