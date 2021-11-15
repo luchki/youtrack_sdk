@@ -13,15 +13,14 @@
         {"name": "George Kiknadze", "email": "zinguru@gmail.com"}
     ],
     "require": {
-        "php": "^8.0"
+        "php": "^8.0",
+        "guzzlehttp/guzzle": "^7.4"
     },
     "require-dev": {
-        "guzzlehttp/guzzle": "^7.4",
         "ext-json": "*",
         "ext-http": "*",
         "vlucas/phpdotenv": "^5.3",
-        "doctrine/collections": "^1.6",
-        "slim/slim-skeleton": "^4.3"
+        "doctrine/collections": "^1.6"
     },
     "autoload": {
         "psr-4": { "Luchki\\YoutrackSDK\\": "src/"}
