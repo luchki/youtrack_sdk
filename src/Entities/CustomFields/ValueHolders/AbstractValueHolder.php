@@ -1,5 +1,5 @@
 <?php
-namespace Luchki\YoutrackSDK\CustomFields\ValueHolders;
+namespace Luchki\YoutrackSDK\Entities\CustomFields\ValueHolders;
 
 use Luchki\YoutrackSDK\Contracts\IFieldValueHolder;
 
