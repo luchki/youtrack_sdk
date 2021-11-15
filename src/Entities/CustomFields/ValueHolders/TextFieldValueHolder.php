@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Entities\CustomFields\ValueHolders;
+namespace Luchki\YoutrackSDK\CustomFields\ValueHolders;
 
-use App\Exceptions\InvalidValueException;
+use Luchki\YoutrackSDK\Exceptions\InvalidValueException;
 
 class TextFieldValueHolder extends AbstractValueHolder
 {

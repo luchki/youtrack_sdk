@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Contracts;
+namespace Luchki\YoutrackSDK\Contracts;
 
 use Doctrine\Common\Collections\ArrayCollection;
 

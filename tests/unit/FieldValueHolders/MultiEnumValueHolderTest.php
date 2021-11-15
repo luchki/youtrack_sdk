@@ -1,7 +1,7 @@
 <?php
 
-use App\Entities\CustomFields\ValueHolders\ArrayWithNameAndTypeValueHolder;
-use App\Entities\CustomFields\ValueHolders\MultiEnumValueHolder;
+use Luchki\YoutrackSDK\Entities\CustomFields\ValueHolders\ArrayWithNameAndTypeValueHolder;
+use Luchki\YoutrackSDK\Entities\CustomFields\ValueHolders\MultiEnumValueHolder;
 use Codeception\Test\Unit;
 
 class MultiEnumValueHolderTest extends Unit

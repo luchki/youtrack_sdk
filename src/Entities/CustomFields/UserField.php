@@ -1,9 +1,9 @@
 <?php
 
-namespace App\Entities\CustomFields;
+namespace Luchki\YoutrackSDK\Entities\CustomFields;
 
-use App\Contracts\IFieldValueHolder;
-use App\Entities\CustomFields\ValueHolders\UserValueHolder;
+use Luchki\YoutrackSDK\Contracts\IFieldValueHolder;
+use Luchki\YoutrackSDK\Entities\CustomFields\ValueHolders\UserValueHolder;
 
 class UserField extends CustomField
 {

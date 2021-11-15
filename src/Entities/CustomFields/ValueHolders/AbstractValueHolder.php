@@ -1,7 +1,7 @@
 <?php
-namespace App\Entities\CustomFields\ValueHolders;
+namespace Luchki\YoutrackSDK\CustomFields\ValueHolders;
 
-use App\Contracts\IFieldValueHolder;
+use Luchki\YoutrackSDK\Contracts\IFieldValueHolder;
 
 abstract class AbstractValueHolder implements IFieldValueHolder
 {

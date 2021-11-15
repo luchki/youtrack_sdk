@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Entities;
+namespace Luchki\YoutrackSDK\Entities;
 
-use App\Contracts\IProjectInfo;
+use Luchki\YoutrackSDK\Contracts\IProjectInfo;
 
 class ProjectInfo implements IProjectInfo
 {

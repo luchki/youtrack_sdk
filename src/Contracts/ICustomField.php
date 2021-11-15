@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Contracts;
+namespace Luchki\YoutrackSDK\Contracts;
 
 interface ICustomField
 {

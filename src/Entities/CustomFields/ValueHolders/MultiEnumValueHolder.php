@@ -1,9 +1,9 @@
 <?php
 
-namespace App\Entities\CustomFields\ValueHolders;
+namespace Luchki\YoutrackSDK\CustomFields\ValueHolders;
 
-use App\Contracts\IFieldValueHolder;
-use App\Exceptions\InvalidValueException;
+use Luchki\YoutrackSDK\Contracts\IFieldValueHolder;
+use Luchki\YoutrackSDK\Exceptions\InvalidValueException;
 
 class MultiEnumValueHolder extends AbstractValueHolder
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Controllers;
+namespace Luchki\YoutrackSDK\Controllers;
 
-use App\Contracts\IIssue;
-use App\Contracts\IProjectInfo;
-use App\Contracts\IYoutrackAPI;
+use Luchki\YoutrackSDK\Contracts\IIssue;
+use Luchki\YoutrackSDK\Contracts\IProjectInfo;
+use Luchki\YoutrackSDK\Contracts\IYoutrackAPI;
 use GuzzleHttp\RequestOptions;
 use Doctrine\Common\Collections\ArrayCollection;
 

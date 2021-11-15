@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Exceptions;
+namespace Luchki\YoutrackSDK\Exceptions;
 
 use Throwable;
 

@@ -1,14 +1,14 @@
 <?php
 
-namespace App\Factories;
+namespace Luchki\YoutrackSDK\Factories;
 
-use App\Contracts\ICustomField;
-use App\Entities\CustomFields\EnumField;
-use App\Entities\CustomFields\MultiEnumField;
-use App\Entities\CustomFields\SimpleTextField;
-use App\Entities\CustomFields\StateField;
-use App\Entities\CustomFields\TextField;
-use App\Entities\CustomFields\UserField;
+use Luchki\YoutrackSDK\Contracts\ICustomField;
+use Luchki\YoutrackSDK\Entities\CustomFields\EnumField;
+use Luchki\YoutrackSDK\Entities\CustomFields\MultiEnumField;
+use Luchki\YoutrackSDK\Entities\CustomFields\SimpleTextField;
+use Luchki\YoutrackSDK\Entities\CustomFields\StateField;
+use Luchki\YoutrackSDK\Entities\CustomFields\TextField;
+use Luchki\YoutrackSDK\Entities\CustomFields\UserField;
 
 class CustomFieldFactory
 {

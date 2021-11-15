@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Entities\CustomFields;
+namespace Luchki\YoutrackSDK\Entities\CustomFields;
 
-use App\Contracts\ICustomField;
-use App\Contracts\IFieldValueHolder;
-use App\Exceptions\InvalidValueException;
+use Luchki\YoutrackSDK\Contracts\ICustomField;
+use Luchki\YoutrackSDK\Contracts\IFieldValueHolder;
+use Luchki\YoutrackSDK\Exceptions\InvalidValueException;
 
 abstract class CustomField implements ICustomField
 {

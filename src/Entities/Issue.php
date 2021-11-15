@@ -1,11 +1,11 @@
 <?php
 
-namespace App\Entities;
+namespace Luchki\YoutrackSDK\Entities;
 
-use App\Contracts\ICustomField;
-use App\Contracts\IIssue;
-use App\Exceptions\InvalidValueException;
-use App\Factories\CustomFieldFactory;
+use Luchki\YoutrackSDK\Contracts\ICustomField;
+use Luchki\YoutrackSDK\Contracts\IIssue;
+use Luchki\YoutrackSDK\Exceptions\InvalidValueException;
+use Luchki\YoutrackSDK\Factories\CustomFieldFactory;
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Criteria;
 use Doctrine\Common\Collections\Expr\Comparison;

@@ -1,6 +1,6 @@
 <?php
 
-use App\Factories\CustomFieldFactory;
+use Luchki\YoutrackSDK\Factories\CustomFieldFactory;
 use Codeception\TestCase\Test;
 
 class CustomFieldFactoryTest extends Test

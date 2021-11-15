@@ -1,5 +1,5 @@
 <?php
-namespace App\Contracts;
+namespace Luchki\YoutrackSDK\Contracts;
 
 interface ITokenAuthentication
 {

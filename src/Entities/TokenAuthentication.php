@@ -1,7 +1,7 @@
 <?php
-namespace App\Entities;
+namespace Luchki\YoutrackSDK\Entities;
 
-use App\Contracts\ITokenAuthentication;
+use Luchki\YoutrackSDK\Contracts\ITokenAuthentication;
 
 class TokenAuthentication implements ITokenAuthentication
 {

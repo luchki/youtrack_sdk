@@ -1,12 +1,12 @@
 <?php
-namespace App\Controllers;
+namespace Luchki\YoutrackSDK\Controllers;
 
-use App\Contracts\IIssue;
-use App\Contracts\IProjectInfo;
-use App\Contracts\ITokenAuthentication;
-use App\Contracts\IYoutrackAPI;
-use App\Entities\Issue;
-use App\Entities\ProjectInfo;
+use Luchki\YoutrackSDK\Contracts\IIssue;
+use Luchki\YoutrackSDK\Contracts\IProjectInfo;
+use Luchki\YoutrackSDK\Contracts\ITokenAuthentication;
+use Luchki\YoutrackSDK\Contracts\IYoutrackAPI;
+use Luchki\YoutrackSDK\Entities\Issue;
+use Luchki\YoutrackSDK\Entities\ProjectInfo;
 use GuzzleHttp\Client;
 use GuzzleHttp\RequestOptions;
 

@@ -1,7 +1,7 @@
 <?php
 
-use App\Entities\CustomFields\ValueHolders\ArrayWithNameAndTypeValueHolder;
-use App\Exceptions\InvalidValueException;
+use Luchki\YoutrackSDK\Entities\CustomFields\ValueHolders\ArrayWithNameAndTypeValueHolder;
+use Luchki\YoutrackSDK\Exceptions\InvalidValueException;
 use Codeception\Test\Unit;
 
 class ArrayWithNameAndTypeValueHolderTest extends Unit

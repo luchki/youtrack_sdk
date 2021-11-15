@@ -1,7 +1,7 @@
 <?php
 
-use App\Entities\CustomFields\ValueHolders\SimpleTextValueHolder;
-use App\Exceptions\InvalidValueException;
+use Luchki\YoutrackSDK\Entities\CustomFields\ValueHolders\SimpleTextValueHolder;
+use Luchki\YoutrackSDK\Exceptions\InvalidValueException;
 use Codeception\Test\Unit;
 
 class SimpleFieldValueHolderTest extends Unit

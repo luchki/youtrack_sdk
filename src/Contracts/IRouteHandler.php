@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Contracts;
+namespace Luchki\YoutrackSDK\Contracts;
 
 use Psr\Http\Message\ResponseInterface as Response;
 use Psr\Http\Message\ServerRequestInterface as Request;
